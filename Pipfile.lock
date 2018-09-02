@@ -129,12 +129,12 @@
         },
         "pytest-pylint": {
             "hashes": [
-                "sha256:5e39b9e1c306319500779f5335ffa35bcc78e973bed61d069b5ce9058ca59f32",
-                "sha256:a928125d59a6329a8fb6ab9af9e570ded4bf607b326d515a5bc6f8a5995edf70",
-                "sha256:d30da4ddbf2ad3a0b47987a664db1510b8aa273fc50f4fdc883404381ec0ba89"
+                "sha256:2d9cbdc2f8bd059ac6794e2fd171ca449b0c67133a6ff0e2e5bbd2fc0def2f86",
+                "sha256:b797d8ba4576d07e5f81b467f5f332911eb75d1fb53a1de288a5e511daad9426",
+                "sha256:fedc2e35b5b73a35a4e75e61868dc8ea4d30cbe57013c1bfec9815ae40d99a79"
             ],
             "index": "pypi",
-            "version": "==0.12.1"
+            "version": "==0.12.2"
         },
         "six": {
             "hashes": [
